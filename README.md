@@ -17,7 +17,7 @@ I'm a passionate developer focused on building powerful automation tools and cre
 
 - 🔭 Currently working on automation and development tools
 - 🌱 Constantly learning and exploring new technologies
-- 💬 Ask me about Python, automation, and software development
+- 💬 Ask me about Python, automation,AI Prompts and software development
 - ⚡ Fun fact: I love turning complex problems into elegant solutions
 
 ---
