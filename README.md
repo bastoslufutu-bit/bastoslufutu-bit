@@ -28,7 +28,7 @@ I'm a passionate developer focused on building powerful automation tools and cre
 skills = {
     "languages": ["Python", "JavaScript"],
     "tools": ["Git", "GitHub", "VS Code"],
-    "interests": ["Automation", "Development Tools", "Problem Solving"]
+    "interests": ["AI prompts","Automation", "Development Tools", "Problem Solving"]
 }
 ```
 
