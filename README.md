@@ -2,7 +2,7 @@
 
 # 👨‍💻 Hey there, I'm bastoslufutu-bit! 
 
-### 🚀 Developer | 🔧 Automation Enthusiast | 💡 Problem Solver
+### 🚀 Developer | 🔧 Prompt engineer | 💡 Problem Solver
 
 [![GitHub followers](https://img.shields.io/github/followers/bastoslufutu-bit?style=social)](https://github.com/bastoslufutu-bit)
 [![GitHub stars](https://img.shields.io/github/stars/bastoslufutu-bit?style=social)](https://github.com/bastoslufutu-bit)
